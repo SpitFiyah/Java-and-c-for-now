@@ -1,2 +1,2 @@
-# Java-and-c-for-now
-just t=getting to know how github workd
+# Idk what this is \_(*_*)_/
+just getting to know how github works
